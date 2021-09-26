@@ -6,12 +6,10 @@ const ProductTag = require('./ProductTag');
 Product.belongsTo(Category);
 Category.hasMany(Product);
 
-// Categories have many Products
 Category.hasMany(Product, {
   as: 'products'
   }
 );
-
 
 Product.belongsToMany(Tag, {
   through: {
