@@ -10,7 +10,7 @@ We will be doing this by using our skills learned in class with Sequelize and My
 
 
 
-link to the walkthrough video demonstration:
+link to the walkthrough video demonstration: https://watch.screencastify.com/v/Gi4k61wBkxncqhX411gr
 
 
 
