@@ -7,7 +7,7 @@ Product.belongsTo(Category);
 Category.hasMany(Product);
 
 Category.hasMany(Product, {
-  as: 'products'
+  as: 'products_product'
   }
 );
 
